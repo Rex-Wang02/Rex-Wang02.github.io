@@ -54,6 +54,11 @@ locale:
 
 # Site features
 features:
+  repository:
+    url: 'https://github.com/Rex-Wang02/Rex-Wang02'
+    content_dir: content
+    branch: main
+
   math:
     enable: false
   privacy_pack:
