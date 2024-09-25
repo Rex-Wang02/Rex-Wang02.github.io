@@ -3,7 +3,7 @@
 title: 王子豪
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zihao Wang
 
 # Full name (for SEO)
 first_name: Shiung Wu
